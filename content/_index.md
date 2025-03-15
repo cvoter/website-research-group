@@ -9,7 +9,7 @@ sections:
   design:
     background:
       image:
-        filename: conceptual_fig_learn_more.png
+        filename: conceptual_fig_updated_learn_more.png
         filters:
           brightness: 1
         parallax: true
@@ -60,7 +60,7 @@ sections:
   design:
     background:
       image:
-        filename: conceptual_fig_high_res.png
+        filename: conceptual_fig_updated_website.png
         filters:
           brightness: 1
         parallax: true
