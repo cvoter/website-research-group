@@ -54,19 +54,8 @@ To add a project:
 4. Add project info to `index.md`.
 
 ### content/publication (aka Papers)
-To add a publication:
-1. Copy the directory from a similar paper under the `content/publication` directory.
-2. Change the name of the directory to `lastnamefirstauthor-YYYY-first-three-words`
-3. Replace the pdf with a pdf of the publication you are adding. I think this file can be named anything, but if something isn't working, try making the name of the pdf the same as the name of the directory.
-4. Replace `cite.bib` with a bib file that contains the appropriate citation for the publication in question. Generate this in Zotero by right clicking on the publication name in Zotero > Export Item > Format: Better BibTeX > save file as `cite.bib` and copy to the publication directory.
-5. Update `index.md` with the information for the publicaton. Be careful to preserve quotation marks where they exist - they can matter here.
-	- title: use single quotes around title, in case there are any special characters
-	- authors: For lab members, be sure to list the full name exactly as it appears in `Authors` (i.e., check if middle initial is used). For non-lab members, list the name the same way it appears previously on the site (in other presentation or publications).
-	- date: this is the date (`'YYYY-MM-DD'`) that the publication was published
-	- publishDate: doesn't matter, leave as-is
-	- publication_types: options include article-journal, report, or paper-conference
-	- summary: Journal Article, Conference Paper, or Report
-	- publication: use single quotes and italics around the publication name
-	- doi: no quotes, just the number
-	- project: use dashes to list any projects associated with this publication. The name of the project to use is its directory name (i.e., `YYYYProjectStarted_ShortName`).
-	- abstract: use single quotes around this.
+To **add a publication**:
+1. Copy `content/publication/blank` and rename to the new publication using the format `lastnamefirstauthor-YYYY-first-three-words`
+2. Update `_index.md` with the information for the publication.
+3. Upload a pdf of the publication with the same name as the directory (i.e., `lastnamefirstauthor-YYYY-first-three-words.pdf`)
+4. Upload a `cite.bib` file that contains the appropriate citation for the publication in question. Generate this in Zotero by right clicking on the publication name in Zotero > Export Item > Format: Better BibTeX > save file as `cite.bib` and copy to the publication directory.
