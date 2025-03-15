@@ -18,9 +18,9 @@ The home page is controlled by the `_index.md` file here. Any photos that you wa
 
 #### content/authors (aka Lab Members)
 To **add a new person** to the group:
-1. Copy the `content/authors/blank` and rename to the new person. Use dashes as spaces between first/last name and middle initial (if desired), e.g.: `carolyn-b.-voter` or `omowumi-erukubami`
+1. Copy `content/authors/blank` and rename to the new person. Use dashes as spaces between first/last name and middle initial (if desired), e.g.: `carolyn-b.-voter` or `omowumi-erukubami`
 2. Update `_index.md` with the information for the new person.
-3. Upload a headshot and name `avatar.jpg` (or `.png` or `.webp`).
+3. Upload a headshot and name it `avatar.jpg` (or `.png` or `.webp`).
 
 **Social icon** options that may be relevant include:
 - *Email.* icon: envelope, icon_pack: fas
@@ -35,20 +35,13 @@ To **add a new person** to the group:
 	- ai: https://jpswalsh.github.io/academicons/
 
 #### content/doc
-If you want to reference a PDF or other document in a page (e.g., your CV, see Carolyn's "author" profile as an example), upload it here. 
-
-Note that publications have a different process - see details below.
+If you want to reference a PDF or other document in a page (e.g., your CV, see Carolyn's `author` profile as an example), upload it here. Note that publications have a different process - see details below.
 
 ### content/event (aka Presentations)
-To add a presentation:
-1. Copy the directory from a similar event under the `content/event` directory. Grab one from the same conference, if that is a choice.
-2. Change the name of the directory using the format `YYYY_MM_Conference_FirstAuthorLastName`
-3. Replace `featured.jpg` (or `.png` or `.webp`) with the logo of the conference/venue, if different from the template event you copied.
-4. Update `index.md` with the information for the presentation. 
-    - authors: For lab members, be sure to list the full name exactly as it appears in `Authors` (i.e., check if middle initial is used). For non-lab members, list the name the same way it appears previously on the site (in other presentation or publications).
-	- event_url: link to the conference program, if possible (and a semi-permanent link)
-	- summary: specify Poster, Talk, Invited Talk, or Lightning Talk
-	- project: use dashes to list any projects associated with this publication. The name of the project to use is its directory name (i.e., `YYYYProjectStarted_ShortName`).
+To **add a presentation**:
+1. Copy `content/event/blank` and rename to the new presentation using the format `YYYY_MM_Conference_FirstAuthorLastName`
+2. Update `_index.md` with the information for the presentation.
+3. Upload a logo of the conference/venue and name it `featured.jpg` (or `.png` or `.webp`). Most logos used to date are around 200px by 200px, with a few notable exceptions. You may want to play around with the size to ensure it matches the other logos when displayed. Check both the list of presentations and the individual presentation page.
 
 ### content/people
 This directory (`content/people`) contains just an `index.md` file which controls the appearance (sorting and grouping) of the `People` page. To add a new lab member, don't adjust anything here - instead, see `Authors` above.
