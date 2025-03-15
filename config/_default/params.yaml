@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: ResearchOrganization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'A hydrology research group at the University of Delaware.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -37,7 +37,7 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
       enable: true
       allow_derivatives: false
