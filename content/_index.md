@@ -28,7 +28,7 @@ sections:
       
       <img style="float: right;" src="hydroeco_burritos_2024.jpg" width="40%" height="40%" alt="The Voter Research Group celebrating Hydroeco Burrito Day in 2024">
       
-      The **Voter Research Group** is led by [Carolyn Voter](author/carolyn-voter) and based in the departments of [Civil,
+      The **Voter Research Group** is led by [Carolyn Voter](author/carolyn-b.-voter) and based in the departments of [Civil,
       Construction, and Environmental Engineering](https://ce.udel.edu/) and
       [Earth Sciences](https://www.udel.edu/academics/colleges/ceoe/departments/es/) at
       the University of Delaware. We are also affiliated with several

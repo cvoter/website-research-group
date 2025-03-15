@@ -18,10 +18,9 @@ The home page is controlled by the `_index.md` file here. Any photos that you wa
 
 #### content/authors (aka Lab Members)
 To **add a new person** to the group:
-1. Copy the directory from a similar group member under the `content/authors` directory 
-2. Change the name of the directory, using dashes as spaces between first/last name and middle initial (if desired), e.g.: `carolyn-b.-voter` or `omowumi-erukubami`
-3. Replace `avatar.jpg` with a photo of the new person. Be sure to keep the name of this photo `avatar.jpg` (or `.png` or `.webp`, I think).
-4. Update `_index.md` with the information for the new person.
+1. Copy the `content/authors/blank` and rename to the new person. Use dashes as spaces between first/last name and middle initial (if desired), e.g.: `carolyn-b.-voter` or `omowumi-erukubami`
+2. Update `_index.md` with the information for the new person.
+3. Upload a headshot and name `avatar.jpg` (or `.png` or `.webp`).
 
 **Social icon** options that may be relevant include:
 - *Email.* icon: envelope, icon_pack: fas
@@ -29,6 +28,7 @@ To **add a new person** to the group:
 - *Orcid.* icon: orcid, icon_pack: ai
 - *Google Scholar.* icon: google-scholar, icon_pack: ai
 - *GitHub.* icon: github, icon_pack: ai
+- *LinkedIn.* icon: linkedin, icon_pack: fab
 - More icon options here:
 	- fab: https://fontawesome.com/icons?d=gallery&s=brands
 	- fas, far: https://fontawesome.com/icons?d=gallery&s=regular,solid
