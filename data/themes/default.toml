@@ -1,0 +1,16 @@
+# Theme metadata
+name = "Default"
+
+[light]
+  # Primary
+  primary = "#1565c0"
+
+  # Menu
+  menu_primary = "#00539f"
+  menu_text = "#fff"
+  menu_text_active = "#ffd200"
+  menu_title = "#fff"
+
+  # Home sections
+  home_section_odd = "#fff"
+  home_section_even = "#fff"
