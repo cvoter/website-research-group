@@ -22,14 +22,14 @@ tags:
 - community-engagement
 # Add approx. year (as YYYY) that project started as date (used for sorting)
 date: 2024
+# Set draft to false after copying over for a new project (only template/blank remains draft)
+draft: false
 
 # NOT CHANGED for our projects, typically
-show_related: true
+show_related: false
 subtitle: ""
 show_date: false
 featured: false
-# Can set draft to true if don't want to appear yet in public view
-draft: false
 # Leave subtitle blank for projects
 subtitle: ""
 # Generally won't use the URLs, but instead will rely on show_related true to display related publications and presentations. However, exceptions may occur (e.g., CSLS video).
@@ -58,4 +58,3 @@ This project is funded by a NSF Strengthening American Infrastructure grant (Lea
 <br>
 
 ## Lab Contributors
-
