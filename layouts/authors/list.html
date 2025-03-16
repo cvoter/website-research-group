@@ -1,0 +1,55 @@
+{{- define "main" -}}
+
+{{/* Author profile page. */}}
+
+{{/* If an account has not been created for this user, just display their name as the title. */}}
+{{ if not .File }}
+<div class="universal-wrapper pt-3">
+  <h1>{{ .Title }}</h1>
+</div>
+{{ end }}
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    {{/* Show the About block if an account exists for this user. */}}
+    {{/* TODO: remove dependency on v1 blocks. Either migrate to v2 blocks(?) or directly implement layout here. */}}
+    {{ if .File }}
+      {{ $widget := "blocks/v1/about.html" }}
+      {{ $username := (path.Base .File.Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
+      {{ $params := dict "wcPage" $ "wcBlock" . "author" $username }}
+      {{ partial $widget $params }}
+    {{end}}
+
+    <h1>Lab Contributions</h1>
+    {{ $username := index .Params.title }}
+
+    {{ $items := where (where site.RegularPages "Type" "project") ".Params.authors" "intersect" (slice $username) }}
+    {{ $pubs_len := len $items }}
+    {{ if ge $pubs_len 1 }}
+      <h2>{{ (i18n "projects") }}</h2>
+      {{ range $index, $item := $items }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.username.profile_view | default "compact") "index" $index) }}
+      {{end}}
+    {{ end }}
+
+    {{ $items := where (where site.RegularPages "Type" "publication") ".Params.authors" "intersect" (slice $username) }}
+    {{ $pubs_len := len $items }}
+    {{ if ge $pubs_len 1 }}
+      <h2>{{ (i18n "publications") }}</h2>
+      {{ range $index, $item := $items }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.username.publication_view | default "compact") "index" $index) }}
+      {{end}}
+    {{ end }}
+    
+    {{ $items := where (where site.RegularPages "Type" "event") ".Params.authors" "intersect" (slice $username) }}
+    {{ $talks_len := len $items }}
+    {{ if ge $talks_len 1 }}
+      <h2>Presentations</h2>
+      {{ range $index, $item := $items }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.username.talk_view | default "compact") "index" $index) }}
+      {{end}}
+    {{ end }}
+  </div>
+</section>
+
+{{- end -}}
