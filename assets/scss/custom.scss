@@ -21,3 +21,13 @@ a:active {
   background-color: #ffd200;
   text-decoration: underline;
 }
+
+.btn.btn-primary.btn-lg:hover {
+  color: #00539f;
+  background-color: #ffd200 !important;
+}
+
+.btn.btn-primary.btn-lg:focus {
+  outline: 5px solid #ffd200;
+  outline-offset: 0px;
+}

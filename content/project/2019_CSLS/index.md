@@ -1,0 +1,59 @@
+---
+# EDIT THIS info, plus markdown section below the front matter
+# Name the project
+title: "Central Sands Lakes Study"
+# Add a one-sentence summary/overview of this project
+summary: "Wisconsin State Legislature-mandated study on the impacts of groundwater withdrawals on lake ecosystems"
+# VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
+authors:
+- Carolyn B. Voter
+- Catherine Hein
+- Justin Chenevert
+- Ian Anderson
+# categories include: research, teaching
+categories:
+- research
+# tags include: urban-hydro, sw-gw, modeling-tools, community-engagement
+tags:
+- sw-gw
+- community-engagement
+# Add approx. year (as YYYY) that project started as date (used for sorting)
+date: 2019
+
+# NOT CHANGED for our projects, typically
+show_related: true
+subtitle: ""
+show_date: false
+featured: false
+# Can set draft to true if don't want to appear yet in public view
+draft: false
+# Leave subtitle blank for projects
+subtitle: ""
+# Generally won't use the URLs, but instead will rely on show_related true to display related publications and presentations. However, exceptions may occur (e.g., CSLS video).
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+# Typically won't adjust the image options nor add a caption, but can if needed.
+image:
+  caption: ""
+  # focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: ""
+  preview_only: false
+---
+## Key Question
+Per [2017 Wisconsin Act 10](https://docs.legis.wisconsin.gov/2017/related/acts/10), could groundwater withdrawals have a “significant impact” on lakes in the Central Sands of Wisconsin?
+
+## Key Finding
+We conclude that groundwater withdrawals for irrigated agriculture **have caused a significant reduction** in the range of high, median, and low lake levels at Long Lake (resulting in impacts to human uses, fish, plants, and chemistry) and Plainfield Lake (resulting in impacts to human uses and plants), while caution is warranted at Pleasant Lake (due to possible or future impacts to lake stratification and dock usage).
+
+## Status
+Findings & recommendations were **submitted** to the WI State Legislature in May 2021. See a [pdf](https://zenodo.org/records/5708719) of the full final report and a [video](https://widnr.widen.net/view/video/aka5svaemi/DG_Central_Sands_Lakes_Study_Decision_Overview?u=kfkpym) of my 30-min overview presentation at the links above.
+
+## Funding
+Carolyn's role on this project was supported by a **Wisconsin Water Science-Policy Fellowship**. See a peer-reviewed publication and other presentations on this adaptable University-Agency collaboration below.
+
+<br>
+
+## Lab Contributors
+
