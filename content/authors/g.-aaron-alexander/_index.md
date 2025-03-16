@@ -1,26 +1,31 @@
 ---
-# NAME
-# Display name
+# EDIT THIS info, plus markdown section below the front matter
+# Set draft to false after copying over for a new person (only template/blank remains draft)
+draft: false
+# Full name, as appears in publications (e.g., Carolyn B. Voter, G. Aaron Alexander) 
 title: G. Aaron Alexander
+# Full name, same as title
+name: G. Aaron Alexander
+# Full name, must be identical to title
+authors:
+- G. Aaron Alexander
 # People avatars are sorted by last name
 first_name: Aaron
 last_name: Alexander
-name: Aaron Alexander
 # Add name pronounciation, optional
 name_pronunciation: ''
-
-# TAGLINES
-# Role/position - PhD Candidate, PhD Student, MS Student, Undergrad Researcher, etc.
+# Groups on the people page. See content/people/_index.md for options (e.g., Principal Investigator, Graduate Students, Undergraduate Researchers, Alumni)
+user_groups:
+- Graduate Students
+# Role/position - PhD Candidate, PhD Student, MS Student, Undergrad Researcher, etc. Not tied to other code on site, so can be descriptive.
 role: PhD Candidate
 # Organizations/Affiliations
-# Can optionally link to URL, or leave as just unlinked name
+# Use a dash in front of name to list, as below. Can optionally link to URL (use quotes), or leave as just unlinked name
 organizations:
 - name: Water Resources Engineering
   url: "https://www.engr.wisc.edu/department/civil-environmental-engineering/research-in-cee/water-resources-engineering-science/"
 - name: University of Wisconsin-Madison
-
-# PROFILES
-# See README for additional icon options
+# See README for additional icon options. link can be to an external website or to a document on this site (i.e., under doc/name_of_file)
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,31 +43,18 @@ social:
   icon_pack: ai
   link: https://github.com/GAaronAlexander
 
-# PUBLICATION INFO
-# No white spaces or underscores allowed in author names
-# Can add multiple authors if different ways of spelling/crediting name
-# Can choose to bold/highlight this person in publication author lists
-authors:
-- g.-aaron-alexander
-- aaron-alexander
+# NOT CHANGED for our profiles, typically
+# Select true. bold/highlights group members in publication author lists
 highlight_name: true
-email: "gaalexander3@wisc.edu"
-
-# USER SETTINGS
-# Superuser true only for the primary user of the site, i.e., the admin.
-superuser: false
-# groups on the people page. See content/people/_index.md for options.
-user_groups:
-- Graduate Students
-
-# NOT USED
-# Status emoji. Paste icon below if desired.
+# Superuser true only for the primary user of the site, i.e., the admin. But I think ok to make all group members a superuser.
+superuser: true
+# Not used. Status emoji. Paste icon below if desired.
 status:
-# Short, 1-sentence bio, displayed in user profile at end of posts
+# Not used. Short, 1-sentence bio, displayed in user profile at end of posts
 bio:
-# List interests using dashes, if desired
+# Not used. List interests using dashes
 interests:
-# Can add course, institution, year
+# Not used (edit eduction below instead). Can add course, institution, year
 education:
 ---
 # Education
@@ -71,17 +63,6 @@ education:
 - BS in Physics, University of Nevada, Reno, 2017
 
 # Bio
-I am a Ph.D. student at the University of Wisconsin-Madison Water Resources Engineering Department. I am a member of the [Hydroclimate Extremes Research Group](https://her.cee.wisc.edu/) and [Hydroecology Lab](https://hydroecology.cee.wisc.edu/) and advised by Dr. Daniel B. Wright, Dr. Steve Lohiede II, and Dr. Carolyn B. Voter.
+I am a Ph.D. candidate at the University of Wisconsin-Madison Water Resources Engineering Department. I am a member of the [Hydroclimate Extremes Research Group](https://her.cee.wisc.edu/) and [Hydroecology Lab](https://hydroecology.cee.wisc.edu/) at the University of Wisconsin-Madison, and a member of the [Voter Group](https://carolynbvoter.com/) at the University of Delaware. My advisors are Dr. Daniel B. Wright, Dr. Steve Lohiede II, and Dr. Carolyn B. Voter.
 
-My work is motivated by the links between the atmosphere, water, and society where extremes are intensifying, urbanization is expanding, and the climate continues to change.
-
-I utilize observational data, physically based models, and statistical techniques to 1) investigate emerging hydrologic based adaptions, 2) quantify processes effect on day-to-day meteorology and climate extremes, and ultimately 3) identify key actions that can improve environmental sustainability.
-
-# Interests
-## Research 
-- research things
-
-## For Fun
-- Hiking
-- Snowboarding
-- Baking new confections to share with friends
+I am an atmospheric modeler, computational hydrologist, statistical hydrometeorologist, boundary layer meteorologist, accidental engineer, and most importantly a mentor and teacher. My work is focused on better understanding the links between the atmosphere and the land surface where we live in areas of both extreme heterogeneity and human interactions. I have extensive experience developing a new land surface parametrization suitable to answer questions relating to human responses to climate change in urban spaces within high resolution climate models. I further work with big data in the form of satellites, in-situ, airplane, and imagery data with physically informed methods and statistical/machine learning approaches to quantify the changing extremes in regions around the globe. The overarching goal of my research is to create find intradisciplinary answers to inherently intradisciplinary questions that face society now and in the future.
