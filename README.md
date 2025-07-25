@@ -4,11 +4,11 @@
 A good way to edit the website content is to use **Visual Studio Code** (download [here](https://code.visualstudio.com/download)), but [other options](https://docs.hugoblox.com/getting-started/cms/) work too. RStudio + Blogdown package used to be a good option, but it no longer plays as nicely with Hugo - I'd recommend using one of the other approaches.
 
 To setup a website and begin editing in VS Code:
-1. Install Hugo Extended following instructions [here](https://docs.hugoblox.com/getting-started/install-hugo/). *Note*: if you are using Windows and your system is reasonably modern, the Powershell you have probably works fine, no need to install a new variant.
-2. Clone a template to your local computer. We're using [HugoBlox/theme-research-group](https://github.com/HugoBlox/theme-research-group). If you are looking to make a personal website, [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) may be a good option. More options [here](https://hugoblox.com/templates/). Rename the directory as you wish.
-3. In VS Code, replace the README.md and content in the `content`, `assets/media`, and `images` directories with your materials, as described below. Additional details on customization [here](https://docs.hugoblox.com/getting-started/customize/).
-4. As you edit, view the rendered site locally by running this command in the VS Code terminal (or other terminal, e.g. GIt Bash): `hugo server -D`. It will return a message that includes a link (e.g., `http://localhost:1313/`) that you can open in your browser. As the message indicates, kill the server via `Ctrl + C`. 
-5. On GitHub, create a repo for your website. On your local machine, add the remote repo via `git remote add origin <url>`
+1. **Install Hugo Extended** following instructions [here](https://docs.hugoblox.com/getting-started/install-hugo/). *Note*: if you are using Windows and your system is reasonably modern, the Powershell you have probably works fine, no need to install a new variant.
+2. **Clone a template** to your local computer. We're using [HugoBlox/theme-research-group](https://github.com/HugoBlox/theme-research-group). If you are looking to make a personal website, [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) may be a good option. More options [here](https://hugoblox.com/templates/). Rename the directory as you wish.
+3. **Customize content** in VS Code. Replace the README.md and content in the `content`, `assets/media`, and `images` directories with your materials, as described below. Additional details on customization [here](https://docs.hugoblox.com/getting-started/customize/).
+4. **View the rendered site** locally as you edit by running this command in the VS Code terminal (or other terminal, e.g. GIt Bash): `hugo server -D`. It will return a message that includes a link (e.g., `http://localhost:1313/`) that you can open in your browser. As the message indicates, kill the server via `Ctrl + C`. 
+5. On GitHub, create a repo for your website. On your local machine, update the remote repo via `git remote set-url origin <url>`
 
 ## Quick Orientation
 Once installed, the main website files that get modified are in the top level `content`, `assets/media`, and `images` directories.
@@ -16,11 +16,12 @@ Once installed, the main website files that get modified are in the top level `c
 ### content
 The home page is controlled by the `_index.md` file here. Any photos that you want to appear on the home page can either go here or in `assets/media` (I think).
 
-#### content/authors (aka Lab Members)
+### content/authors (aka Lab Members)
 To **add a new person** to the group:
 1. Copy `content/authors/blank` and rename to the new person. Use dashes as spaces between first/last name and middle initial (if desired), e.g.: `carolyn-b.-voter` or `omowumi-erukubami`
 2. Update `_index.md` with the information for the new person.
 3. Upload a headshot and name it `avatar.jpg` (or `.png` or `.webp`).
+4. Add the person to relevant project(s), if they are not already included. If they have been on publication(s) and/or presentation(s), be sure they are listed (the same) there as well.
 
 **Social icon** options that may be relevant include:
 - *Email.* icon: envelope, icon_pack: fas
@@ -34,7 +35,7 @@ To **add a new person** to the group:
 	- fas, far: https://fontawesome.com/icons?d=gallery&s=regular,solid
 	- ai: https://jpswalsh.github.io/academicons/
 
-#### content/doc
+### content/doc
 If you want to reference a PDF or other document in a page (e.g., your CV, see Carolyn's `author` profile as an example), upload it here. Note that publications have a different process - see details below.
 
 ### content/event (aka Presentations)
