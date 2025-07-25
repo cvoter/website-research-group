@@ -33,4 +33,6 @@ abstract: To increase the adoption and reliability of low impact development (LI
   climates and evaluating the effectiveness of infiltration-based, rather than retention-based,
   strategies to achieve regional hydrologic goals under current and future climate
   conditions.
+projects:
+- 2015_LIDParcel
 ---

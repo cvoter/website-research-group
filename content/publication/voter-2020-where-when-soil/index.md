@@ -29,4 +29,6 @@ abstract: Improving the infiltration capacity of urban soil is critical for effe
   this intervention in the suite of low impact development practices promoted to residential
   property owners since it effectively and efficiently reduces runoff and may appeal
   to homeowners who are wary of maintenance needs of other practices.
+projects:
+- 2018_LIDSoil
 ---
