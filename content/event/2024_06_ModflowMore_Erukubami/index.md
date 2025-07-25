@@ -13,7 +13,6 @@ featured: false
 image:
   caption: 'Image credit: [Integrated GroundWater Modeling Center](https://igwmc.princeton.edu/modflow/)'
 location: Princeton, NJ
-projects: null
 publishDate: "2024-06-30T00:00:00Z"
 slides: null
 summary: Poster
@@ -23,4 +22,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+projects:
+- 2023_CoastalWaterInf
 ---

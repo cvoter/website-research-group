@@ -23,4 +23,5 @@ url_slides: ""
 url_video: ""
 projects:
 - 2019_CSLS
+- 2022_EquitableGSI
 ---

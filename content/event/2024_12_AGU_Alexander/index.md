@@ -36,4 +36,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+projects:
+- 2020_LandAtmosphere
 ---

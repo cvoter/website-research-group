@@ -14,7 +14,6 @@ featured: false
 image:
   caption: 'Image credit: [AGU](https://www.agu.org/)'
 location: San Juan, Puerto Rico
-projects: null
 publishDate: "2024-06-30T00:00:00Z"
 slides: null
 summary: Invited Talk
@@ -24,4 +23,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+projects:
+- 2015_LIDParcel
+- 2020_LandAtmosphere
 ---

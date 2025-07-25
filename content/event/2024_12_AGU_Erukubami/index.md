@@ -22,7 +22,8 @@ image:
 # City, State of conference
 location: Washington D.C.
 # Name of associated project(s) as appear in directory name (i.e., YYYYProjectStarted_ShortName)
-projects: null
+projects:
+- 2023_CoastalWaterInf
 # Need something here, but not too important: just copy in: "2024-06-30T00:00:00Z" or current date/time
 publishDate: "2024-06-30T00:00:00Z"
 slides: null

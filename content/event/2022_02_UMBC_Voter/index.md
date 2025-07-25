@@ -11,14 +11,16 @@ featured: false
 image:
   caption: 'Image credit: [UMBC](https://umbc.edu/)'
 location: Online
-projects: null
 publishDate: "2024-06-30T00:00:00Z"
 slides: null
-summary: Invited Talk
+summary: Invited Seminar
 tags: []
 title: 'Scaling up: Accounting for key fine-scale urban hydrologic processes at city and larger scales'
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+projects:
+- 2015_LIDParcel
+- 2020_LandAtmosphere
 ---

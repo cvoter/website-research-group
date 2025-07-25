@@ -18,4 +18,5 @@ summary: "Report"
 doi: 10.5281/zenodo.5708751
 projects:
 - 2019_CSLS
+url_video: "https://widnr.widen.net/view/video/aka5svaemi/DG_Central_Sands_Lakes_Study_Decision_Overview?u=kfkpym"
 ---

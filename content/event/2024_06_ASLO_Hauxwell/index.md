@@ -15,7 +15,6 @@ featured: false
 image:
   caption: 'Image credit: [ASLO](https://www.aslo.org/)'
 location: Madison, WI
-projects: null
 publishDate: "2024-06-30T00:00:00Z"
 slides: null
 summary: Talk

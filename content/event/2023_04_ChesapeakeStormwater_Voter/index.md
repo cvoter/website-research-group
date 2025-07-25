@@ -12,7 +12,6 @@ featured: false
 image:
   caption: 'Image credit: [Chesapeake Stormwater Network](https://chesapeakestormwater.net/)'
 location: Shepherdstown, WV
-projects: null
 publishDate: "2024-06-30T00:00:00Z"
 slides: null
 summary: Conference Session
@@ -22,4 +21,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+projects:
+- 2022_EquitableGSI
 ---

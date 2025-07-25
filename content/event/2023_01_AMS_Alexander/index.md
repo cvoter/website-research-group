@@ -14,7 +14,6 @@ featured: false
 image:
   caption: 'Image credit: [AMS](https://www.ametsoc.org/index.cfm/ams/)'
 location: Denver, CO
-projects: null
 publishDate: "2024-06-30T00:00:00Z"
 slides: null
 summary: Poster
@@ -24,4 +23,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+projects:
+- 2020_LandAtmosphere
 ---

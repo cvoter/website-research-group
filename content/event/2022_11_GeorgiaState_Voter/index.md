@@ -14,11 +14,14 @@ location: Atlanta, GA
 projects: null
 publishDate: "2024-06-30T00:00:00Z"
 slides: null
-summary: Invited Talk
+summary: Invited Seminar
 tags: []
 title: 'Urban ecohydrology: Processes that matter, ways to model them, and implications for sustainable management'
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+projects:
+- 2015_LIDParcel
+- 2020_LandAtmosphere
 ---

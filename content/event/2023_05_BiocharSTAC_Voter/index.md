@@ -11,7 +11,6 @@ featured: false
 image:
   caption: 'Image credit: [Chesapeake Bay Program](https://www.chesapeakebay.net/)'
 location: Hershey, PA
-projects: null
 publishDate: "2024-06-30T00:00:00Z"
 slides: null
 summary: Urban Landscapes (Stormwater) Panelist
@@ -21,4 +20,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+projects:
+- 2018_LIDSoil
 ---

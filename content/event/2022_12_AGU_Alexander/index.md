@@ -14,7 +14,6 @@ featured: false
 image:
   caption: 'Image credit: [AGU](https://www.agu.org/)'
 location: Chicago, IL
-projects: null
 publishDate: "2024-06-30T00:00:00Z"
 slides: null
 summary: Poster
@@ -24,4 +23,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+projects:
+- 2020_LandAtmosphere
 ---

@@ -34,7 +34,7 @@ subtitle: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://widnr.widen.net/view/video/aka5svaemi/DG_Central_Sands_Lakes_Study_Decision_Overview?u=kfkpym"
 # Typically won't adjust the image options nor add a caption, but can if needed.
 image:
   caption: ""

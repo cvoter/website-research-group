@@ -14,7 +14,6 @@ featured: false
 image:
   caption: 'Image credit: [CUAHSI](https://www.cuahsi.org)'
 location: Lake Tahoe, CA
-projects: null
 publishDate: "2024-06-30T00:00:00Z"
 slides: null
 summary: Lightning Talk & Poster
@@ -24,4 +23,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+projects:
+- 2020_LandAtmosphere
 ---
