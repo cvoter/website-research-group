@@ -3,7 +3,7 @@
 # Name the project
 title: "Soil Amendment for Stormwater Control"
 # Add a one-sentence summary/overview of this project
-summary: "Systematic exploration of how to target soil amendment within a parcel to optimize benefits for stormwater management"
+summary: "Where and when is soil amendment most effective as a low-impact stormwater management practice?"
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - Carolyn B. Voter
@@ -14,6 +14,7 @@ categories:
 # tags include: urban-hydro, sw-gw, modeling-tools, community-engagement
 tags:
 - urban-hydro
+- gsi
 # Add approx. year (as YYYY) that project started as date (used for sorting)
 date: 2018
 # Set draft to false after copying over for a new project (only template/blank remains draft)
@@ -42,13 +43,16 @@ image:
 Where and when is soil amendment most effective as a low-impact stormwater management practice?
 
 ## Key Finding
-Amending soil on as little as 1.5% of sloped yard near disconnected impervious features can reduce runoff by up to 17% when existing soil infiltration is low; this could be promoted as a LID alternative to rain gardens for some homeowners.
+Amending soil on as little as 1.5% of sloped yard near disconnected impervious features can reduce runoff by up to 17% when existing soil infiltration is low; this could be promoted as a **LID alternative to rain gardens** for some homeowners.
 
 ## Status
-Complete/published.
+This work is **published**.
 
 ## Funding
-Carolyn's role as a graduate research assistant was funded by a number of sources procured by Steve Loheide, including a Wisconsin Groundwater Research Advisory Council project and funding from the North Temperate Lakes Long Term Ecological Research site. During this time, Carolyn secured a UW-Madison Weston Fellowship, project assistantships at the Wisconsin Department of Natural Resources and Water@UW-Madison program, and collaborated with Steve on a successful Wisconsin Sea Grant Institute proposal on these topics.
+- **Wisconsin Sea Grant Institute**. The Hydrologic and Ecologic Effects of Green Infrastructure Within Urban Coastal Catchments. Project number: R/RCE-05. Lead PI: Steve Loheide. Voter role: co-author and graduate student researcher.
+- **Wisconsin Water Resources Institute**. Effects of Nuanced Changes in Lot Layout and Impervious Area Connectivity on Urban Recharge. Project number: WR12R002. Lead PI: Steve Loheide. Voter role: graduate student researcher.
+- **North Temperate Lakes Long Term Ecological Research**. Lead PI: Emily Stanley. Voter role: graduate student researcher.
+- **UW-Madison Department of Civil & Environmental Engineering**. Weston Fellowship. Voter role: graduate fellow.
 
 <br>
 

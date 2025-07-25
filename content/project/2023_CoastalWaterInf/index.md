@@ -1,9 +1,9 @@
 ---
 # EDIT THIS info, plus markdown section below the front matter
 # Name the project
-title: "Climate Change Impacts to Coastal Urban Water Infrastructure"
+title: "Coastal Urban Water Infrastructure: Future Vulnerabilities"
 # Add a one-sentence summary/overview of this project
-summary: "CURENTLY EDITING"
+summary: "What is the impact of groundwater rise, saltwater intrusion, and intensifying precipitation on (below-ground) stormwater and wastewater infrastructure?"
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - Omowumi Erukubami
@@ -19,6 +19,7 @@ categories:
 - research
 # tags include: urban-hydro, sw-gw, modeling-tools, community-engagement
 tags:
+- urban-hydro
 - sw-gw
 - modeling-tools
 # Add approx. year (as YYYY) that project started as date (used for sorting)
@@ -46,12 +47,15 @@ image:
   preview_only: false
 ---
 ## Key Questions
-
-## Key Findings
+- What is the impact of groundwater rise, saltwater intrusion, and intensifying precipitation on (below-ground) stormwater and wastewater infrastructure?
+- How can coupled stormwater-groundwater models improve understanding of integrated hydrologic processes?
 
 ## Status
+This project is in a **data collection** and **model development** phase as of Summer 2025
 
 ## Funding
+- **DOD Environmental Security Technology Certification Program (ESTCP)**. Integrated Assessment of Climate Change Impacts to Groundwater, Stormwater, and Wastewater Infrastructure at Coastal Military Facilities. Project number: NH23-7762. Lead PI: Voter. 
+- **NSF EPSCoR Research Incubators for STEM Excellence**. E-RISE RII: An Investigation of Saltwater Intrusion in the Complex Coastal Environment of Delaware. Award number: 2446056. Lead PI: Kent Messer (UD). Voter role: Senior Personnel.
 
 <br>
 

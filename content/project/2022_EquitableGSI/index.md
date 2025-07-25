@@ -1,9 +1,9 @@
 ---
 # EDIT THIS info, plus markdown section below the front matter
 # Name the project
-title: "Effective and Equitable Green Stormwater Infrastructure"
+title: "Green Stormwater Infrastructure: Designing for Hydrologic & Community Effectiveness"
 # Add a one-sentence summary/overview of this project
-summary: "Explorations of how to optimize the adoption of green stormwater infrastructure for both hydrologic performance and community preferences"
+summary: "How can we optimize the adoption of green stormwater infrastructure for both hydrologic performance and community preferences?"
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - Rachel Zobel
@@ -13,6 +13,7 @@ authors:
 - Yao Hu
 - Paul Imhoff
 - Victor Perez
+- Vaishnavi Tripuraneni
 # categories include: research, teaching
 categories:
 - research
@@ -20,6 +21,7 @@ categories:
 tags:
 - urban-hydro
 - community-engagement
+- gsi
 # Add approx. year (as YYYY) that project started as date (used for sorting)
 date: 2022
 # Set draft to false after copying over for a new project (only template/blank remains draft)
@@ -50,17 +52,18 @@ image:
 
 ## Key Findings
 - Stormwater professionals in the Chesapeake Bay region agree that:
-	1. Maintenance of GSI is a top concern
-	2. Valuing the long-term costs and benefits of GSI remains challenging
-	3. "Good" community engagement is key to success
+
+	1. **Maintenance** of GSI is a top concern
+	2. Valuing the **long-term costs and benefits** of GSI remains challenging
+	3. "Good" **community engagement** is key to success
 
 ## Status
 - Our initial discussions with stormwater professionals in the Chesapeake Bay are **complete** and summarized in our white paper (see below) and led directly to our project on [Long-Term "Success" of Green Stormwater Infrastructure](project/2024_LongTermGSI). 
 - We are in the **data collection phase** of our project in Wilmington, DE, which is funded by DE Sea Grant and began in Spring 2024.
 
 ## Funding
-- Support for workshops and discussions with stormwater professionals in the Chesapeake Bay region was provided by a [**NSF Strengthening American Infrastructure** planning grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228662) (Lead PI: Carolyn; award number 2228662).
-- A case study of GSI in Northeast Wilmington, DE is being supported by a **Delaware Sea Grant Institute** grant (Lead PI: Becca Nixon; project number R/RCE-22).
+- **NSF Strenthening American Infrastructure Program**. SAI-P: Optimizing Deployment of Green Stormwater Infrastructure for Maximum Benefit. Award number: 2228662. Lead PI: Voter.
+- **Delaware Sea Grant Institute**. An Investigation of Green Infrastructure to Enhance Resilient Stormwater Management in the City of Wilmington. Project number: R/RCE-22. Lead PI: Rebecca Nixon. Voter role: co-PI. 
 
 <br>
 

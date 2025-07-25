@@ -1,14 +1,15 @@
 ---
 # EDIT THIS info, plus markdown section below the front matter
 # Name the project
-title: 'Long-Term "Success" of Green Stormwater Infrastructure'
+title: 'Green Stormwater Infrastructure: Long Term "Success"'
 # Add a one-sentence summary/overview of this project
-summary: 'Analysis of the extent to which green stormwater infrastructure such as residential rain gardens remain a "success" hydrologically, ecologically, and socially after 10+ years'
+summary: 'To what extent do green stormwater infrastructure such as residential rain gardens remain a "success" hydrologically, ecologically, and socially after 10+ years?'
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - Emma Ruggiero
-- Ashley-Lynn Antoine
 - Grace Hepler
+- Ryan Knott
+- Brayden Rochester
 - Carolyn B. Voter
 - Rebecca Nixon
 - Yao Hu
@@ -20,6 +21,7 @@ categories:
 tags:
 - urban-hydro
 - community-engagement
+- gsi
 # Add approx. year (as YYYY) that project started as date (used for sorting)
 date: 2024
 # Set draft to false after copying over for a new project (only template/blank remains draft)
@@ -50,10 +52,10 @@ image:
 - How can we predict where "successful" rain gardens will be found?
 
 ## Status
-This project was recently awarded funding and will begin in Fall 2024
+We are in the **data collection** phase of this project as of Summer 2025
 
 ## Funding
-This project is funded by a NSF Strengthening American Infrastructure grant (Lead PI: Carolyn).
+- **NSF Strengthening American Infrastructure**. SAI: Examining Long-Term "Success" of Green Stormwater Infrastructure. Award number: 2425112. Lead PI: Voter.
 
 <br>
 

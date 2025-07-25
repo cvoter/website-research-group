@@ -3,7 +3,7 @@
 # Name the project
 title: "Hydrologic Regimes of Lakes"
 # Add a one-sentence summary/overview of this project
-summary: "Framework for conceptualizing and quantifying lake level variability in ways that are relevant for lake ecology and lake management"
+summary: "How can we meaningfully describe and quantify water level fluctuations in lakes?"
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - Carolyn B. Voter
@@ -42,13 +42,13 @@ image:
 How can we meaningfully describe and quantify water level fluctuations in lakes?
 
 ## Key Finding
-While the [Natural Flow Regime](https://doi.org/10.2307/1313099) and similar frameworks for streams provide a useful starting point for analyzing lake hydrology in an ecologically-relevant way, lakes require a unique analysis that accounts for key differences in their behavior, particularly the higher variability over the scale of decades.
+While the [Natural Flow Regime](https://doi.org/10.2307/1313099) and similar frameworks for streams provide a useful starting point for analyzing lake hydrology in an ecologically-relevant way, **lakes require a unique analysis** that accounts for key differences in their behavior, particularly the higher variability over the scale of decades.
 
 ## Status
-Initial explorations incorporated into the [Central Sands Lakes Study](project/2019_csls/) analyses. R-package and manuscript in preparation.
+Initial explorations **incorporated** into the [Central Sands Lakes Study](project/2019_csls/) analyses. R-package and manuscript **in preparation**.
 
 ## Funding
-Carolyn's role on the Central Sands Lakes Study was supported by a **Wisconsin Water Science-Policy Fellowship**. See a peer-reviewed publication and other presentations on this adaptable University-Agency collaboration below.
+- **Wisconsin Water Resources Institute** and **Wisconsin Department of Natural Resources**. Wisconsin Water Science-Policy Fellowship. Voter role: postdoctoral fellow.
 
 <br>
 

@@ -3,7 +3,7 @@
 # Name the project
 title: "Land-Atmosphere Hydrologic Feedbacks in Urban Areas"
 # Add a one-sentence summary/overview of this project
-summary: "Development of a new land surface model for heterogeneous urban environments (Noah-MP-HUE) and exploration of how urban water and energy representation in regional climate models impacts our understanding of urban land-atmosphere interactions"
+summary: "How are urban water and energy dynamics in regional climate models impacted by robust representation of urban hydrologic processes?"
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - G. Aaron Alexander
@@ -17,6 +17,7 @@ categories:
 tags:
 - urban-hydro
 - modeling-tools
+- land-atmos
 # Add approx. year (as YYYY) that project started as date (used for sorting)
 date: 2020
 # Set draft to false after copying over for a new project (only template/blank remains draft)
@@ -46,13 +47,14 @@ image:
 - What insights do these observations yield regarding the impact of greening practices on urban hydrometeorology?
 
 ## Key Findings
-- Accounting for sub-grid water transfers (such as those that occur due to green infrastructure practices) changes the partitioning of land surface fluxes.
+- Accounting for **sub-grid water transfers** (such as those that occur due to green infrastructure practices) changes the partitioning of land surface fluxes.
 
 ## Status
-Paper documenting Noah-MP-HUE published. Additional manuscripts examining implications for coupled urban land-atmosphere interactions under review and in preparation.
+Paper documenting Noah-MP-HUE **published**. Additional manuscripts examining implications for coupled urban land-atmosphere interactions **under review** and **in preparation**.
 
 ## Funding
-Initial funding for Aaron secured via a successful [2020-2022 Wisconsin Sea Grant Institute proposal](https://publications.aqua.wisc.edu/download/sg_directory_2020-pdf/?tmstv=1719861097) that Carolyn co-led with Steve Loheide and Dan Wright. 
+- **Wisconsin Sea Grant Institute**. Mitigating Fooding, Extreme Heat, and Heavy Rainfall in Urban Coastal Communities by “Greening”. Project number: R/RCE-12. Lead PI: Steve Loheide. Voter role: Associate Investigator. 
+- Additional funding for Aaron's work secured from the **Milwuakee Metropolitain Sewerage District** by Dan Wright and Steve Loheide.  
 
 <br>
 

@@ -7,17 +7,30 @@ sections:
       title: Research Projects
       subtitle: view by theme
       text: |
-        We are broadly interested in the interactions among water, ecosystems, and people. In terms of *Hydrologic Processes*, we currently have a strong focus on **Urban Hydrology** as well as broader **Surface Water-Groundwater Interactions**. Our core *Approaches* included developing novel integrated hydrologic **Modeling Tools** and incorporating **Community Engagement**. Use the buttons below to view all projects or filter by theme. <br><br>        
+        <center>We are broadly interested in the interactions among <strong>water, ecosystems, and people</strong>.</center><br>
+        
+        In terms of *Hydrologic Processes*, we currently have a strong focus on:
+        - **Urban (Eco-)Hydrology**, with a number of projects focusing specifically on **Green Stormwater Infrastructure**
+        - Hydrologic feedbacks, including **Surface Water-Groundwater** interactions and **Land-Atmosphere** interactions
+        
+        Our core *Approaches* included:
+        - Developing novel **Integrated Modeling** tools to capture hydrologic processes
+        - Incorporating **Community Engagement**
+        <br><br>        
       filters:
         folders:
           - project
       buttons:
         - name: All
           tag: '*'
-        - name: Urban Hydrology
+        - name: Urban (Eco-)Hydrology
           tag: urban-hydro
-        - name: SW-GW Interactions
+        - name: Green Stormwater Infrastructure
+          tag: gsi
+        - name: Surface Water-Groundwater
           tag: sw-gw
+        - name: Land-Atmosphere
+          tag: land-atmos
         - name: Integrated Modeling
           tag: modeling-tools
         - name: Community Engagement

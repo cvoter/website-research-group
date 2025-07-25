@@ -3,7 +3,7 @@
 # Name the project
 title: ""
 # Add a one-sentence summary/overview of this project
-summary: ""
+summary: " "
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - 

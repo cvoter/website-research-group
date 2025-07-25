@@ -1,9 +1,9 @@
 ---
 # EDIT THIS info, plus markdown section below the front matter
 # Name the project
-title: "Fine-Scale Residential Hydrology Across Climates"
+title: "Managing Residential Hydrology Across Climates"
 # Add a one-sentence summary/overview of this project
-summary: "Systematic exploration of how low-impact stormwater management practices interact with one another and with climate, with insights for optimizing management"
+summary: "How do low-impact stormwater management practices interact with one another and with climate?"
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - Carolyn B. Voter
@@ -14,6 +14,7 @@ categories:
 # tags include: urban-hydro, sw-gw, modeling-tools, community-engagement
 tags:
 - urban-hydro
+- gsi
 # Add approx. year (as YYYY) that project started as date (used for sorting)
 date: 2015
 # Set draft to false after copying over for a new project (only template/blank remains draft)
@@ -44,16 +45,19 @@ image:
 - Can we use readily-available lot attributes to prioritize areas for these low-impact practices at the scale of a city? 
 
 ## Key Findings
-- Practices targeting impervious-pervious interfaces experience higher runoff but can increase drainage relative to lots with no imperviousness
-- Pairing impervious disconnection with soil decompaction synergistically reduces runoff and increases deep drainage and evapotranspiration
-- The effectiveness of low-impact stormwater management practices are driven by a) the aridity index and b) between-storm characteristics.
-- Statistical models such as PLSR can be harnessed to expand fine-scale insights of complex physical models of urban hydrology.
+- Practices **targeting impervious-pervious interfaces** experience higher runoff but can increase drainage relative to lots with no imperviousness
+- Pairing impervious disconnection with **soil decompaction** synergistically reduces runoff and increases deep drainage and evapotranspiration
+- The effectiveness of low-impact stormwater management practices are driven by a) the **aridity index** and b) **between-storm** characteristics.
+- Statistical models such as PLSR can be harnessed to **expand fine-scale insights** of complex physical models of urban hydrology.
 
 ## Status
-Parcel-scale exploration and climate analysis completed/published. City-scale exploration incorporated in Carolyn's dissertation. 
+Parcel-scale exploration and climate analysis are **published**. City-scale exploration incorporated in Carolyn's dissertation. 
 
 ## Funding
-Carolyn's role as a graduate research assistant was funded by a number of sources procured by Steve Loheide, including a Wisconsin Groundwater Research Advisory Council project and funding from the North Temperate Lakes Long Term Ecological Research site. During this time, Carolyn secured a UW-Madison Weston Fellowship, project assistantships at the Wisconsin Department of Natural Resources and Water@UW-Madison program, and collaborated with Steve on a successful Wisconsin Sea Grant Institute proposal on these topics.
+- **Wisconsin Sea Grant Institute**. The Hydrologic and Ecologic Effects of Green Infrastructure Within Urban Coastal Catchments. Project number: R/RCE-05. Lead PI: Steve Loheide. Voter role: co-author and graduate student researcher.
+- **Wisconsin Water Resources Institute**. Effects of Nuanced Changes in Lot Layout and Impervious Area Connectivity on Urban Recharge. Project number: WR12R002. Lead PI: Steve Loheide. Voter role: graduate student researcher.
+- **North Temperate Lakes Long Term Ecological Research**. Lead PI: Emily Stanley. Voter role: graduate student researcher.
+- **UW-Madison Department of Civil & Environmental Engineering**. Weston Fellowship. Voter role: graduate fellow.
 
 <br>
 

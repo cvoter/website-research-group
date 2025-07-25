@@ -3,13 +3,14 @@
 # Name the project
 title: "Central Sands Lakes Study"
 # Add a one-sentence summary/overview of this project
-summary: "Wisconsin State Legislature-mandated study on the impacts of groundwater withdrawals on lake ecosystems"
+summary: "What are the impacts of groundwater withdrawals on lake ecosystems?"
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - Carolyn B. Voter
 - Catherine Hein
 - Justin Chenevert
 - Ian Anderson
+- Adam Freihoefer
 # categories include: research, teaching
 categories:
 - research
@@ -48,10 +49,10 @@ Per [2017 Wisconsin Act 10](https://docs.legis.wisconsin.gov/2017/related/acts/1
 We conclude that groundwater withdrawals for irrigated agriculture **have caused a significant reduction** in the range of high, median, and low lake levels at Long Lake (resulting in impacts to human uses, fish, plants, and chemistry) and Plainfield Lake (resulting in impacts to human uses and plants), while caution is warranted at Pleasant Lake (due to possible or future impacts to lake stratification and dock usage).
 
 ## Status
-Findings & recommendations were **submitted** to the WI State Legislature in May 2021. See a [pdf](https://zenodo.org/records/5708719) of the full final report and a [video](https://widnr.widen.net/view/video/aka5svaemi/DG_Central_Sands_Lakes_Study_Decision_Overview?u=kfkpym) of my 30-min overview presentation at the links above.
+Findings & recommendations were **submitted** to the WI State Legislature in May 2021. See a [pdf](https://zenodo.org/records/5708719) of the full final report and a [video](https://widnr.widen.net/view/video/aka5svaemi/DG_Central_Sands_Lakes_Study_Decision_Overview?u=kfkpym) of my 30-min overview presentation.
 
 ## Funding
-Carolyn's role on this project was supported by a **Wisconsin Water Science-Policy Fellowship**. See a peer-reviewed publication and other presentations on this adaptable University-Agency collaboration below.
+- **Wisconsin Water Resources Institute** and **Wisconsin Department of Natural Resources**. Wisconsin Water Science-Policy Fellowship. Voter role: postdoctoral fellow.
 
 <br>
 

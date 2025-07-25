@@ -3,7 +3,7 @@
 # Name the project
 title: "Precipitation Projections for Continuous Hydrologic Modeling"
 # Add a one-sentence summary/overview of this project
-summary: "CURRENTLY EDITING"
+summary: "How can we appropriately project historical precipitation into the future for continuous stormwater and groundwater simulations?"
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - Austin K. Farnum
@@ -39,12 +39,14 @@ image:
   preview_only: false
 ---
 ## Key Questions
-
-## Key Findings
+- How can we appropriately project historical precipitation into the future for continuous stormwater and groundwater simulations?
+- How can we make sure the process is usable by others?
 
 ## Status
+This project is in a **manuscript preparation** phase as of Summer 2025
 
 ## Funding
+- **DOD Environmental Security Technology Certification Program (ESTCP)**. Integrated Assessment of Climate Change Impacts to Groundwater, Stormwater, and Wastewater Infrastructure at Coastal Military Facilities. Project number: NH23-7762. Lead PI: Voter. 
 
 <br>
 

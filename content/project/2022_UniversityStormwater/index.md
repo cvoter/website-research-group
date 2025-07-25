@@ -3,7 +3,7 @@
 # Name the project
 title: "Stormwater Management on University Campuses"
 # Add a one-sentence summary/overview of this project
-summary: "CURRENTLY EDITING"
+summary: "What are the unique stormwater management challenges and opportunities at university campuses?"
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - Rachel Zobel
@@ -40,12 +40,18 @@ image:
   preview_only: false 
 ---
 ## Key Questions
+- What are the unique stormwater management challenges and opportunities at university campuses?
 
 ## Key Findings
+- **Regulatory compliance** - not stormwater issues - is the main driver of campus stormwater management activiteis
+- Universities wrestle with at times **competing goals** of managing runoff voumes space- and cost-effectively vs. in a visibly "sustainable" manner that yields ecological co-benefits
+- There is an opportunity for universities to enhance stormwater management by **leveraging on- and off-campus expertise**
 
 ## Status
+- Survey and data collection is complete and an associated manuscript is **in preparation**.
 
 ## Funding
+- **Delaware Water Resources Center** partially supported Rachel's time on this project.
 
 <br>
 
