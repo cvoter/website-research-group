@@ -49,6 +49,3 @@ education:
 # Education
 - MS in Civil Engineering, Villanova University, 2023
 - BS in Civil Engineering, The College of New Jersey, 2021
-
-# Bio
-Austin's bio here.

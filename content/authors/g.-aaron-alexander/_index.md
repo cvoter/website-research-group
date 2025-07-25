@@ -16,9 +16,9 @@ last_name: Alexander
 name_pronunciation: ''
 # Groups on the people page. See content/people/_index.md for options (e.g., Principal Investigator, Graduate Students, Undergraduate Researchers, Alumni)
 user_groups:
-- Graduate Students
+- Alumni
 # Role/position - PhD Candidate, PhD Student, MS Student, Undergrad Researcher, etc. Not tied to other code on site, so can be descriptive.
-role: PhD Candidate
+role: PhD
 # Organizations/Affiliations
 # Use a dash in front of name to list, as below. Can optionally link to URL (use quotes), or leave as just unlinked name
 organizations:
@@ -58,11 +58,12 @@ interests:
 education:
 ---
 # Education
+- PhD in Civil Engineering, University of Madison, 2025
 - MS in Civil and Environmental Engineering, University of California, Davis, 2020
 - BS in Atmospheric Sciences, University of Nevada, Reno, 2017
 - BS in Physics, University of Nevada, Reno, 2017
 
 # Bio
-I am a Ph.D. candidate at the University of Wisconsin-Madison Water Resources Engineering Department. I am a member of the [Hydroclimate Extremes Research Group](https://her.cee.wisc.edu/) and [Hydroecology Lab](https://hydroecology.cee.wisc.edu/) at the University of Wisconsin-Madison, and a member of the [Voter Group](https://carolynbvoter.com/) at the University of Delaware. My advisors are Dr. Daniel B. Wright, Dr. Steve Lohiede II, and Dr. Carolyn B. Voter.
+I am a Postdoctoral Researcher at the University of Wisconsin-Madison Water Resources Engineering Department. During my PhD, I was a member of the [Hydroclimate Extremes Research Group](https://her.cee.wisc.edu/) and [Hydroecology Lab](https://hydroecology.cee.wisc.edu/) at the University of Wisconsin-Madison, and a member of the [Voter Group](https://carolynbvoter.com/) at the University of Delaware. I was advised by Dr. Daniel B. Wright, Dr. Steve Lohiede II, and Dr. Carolyn B. Voter.
 
 I am an atmospheric modeler, computational hydrologist, statistical hydrometeorologist, boundary layer meteorologist, accidental engineer, and most importantly a mentor and teacher. My work is focused on better understanding the links between the atmosphere and the land surface where we live in areas of both extreme heterogeneity and human interactions. I have extensive experience developing a new land surface parametrization suitable to answer questions relating to human responses to climate change in urban spaces within high resolution climate models. I further work with big data in the form of satellites, in-situ, airplane, and imagery data with physically informed methods and statistical/machine learning approaches to quantify the changing extremes in regions around the globe. The overarching goal of my research is to create find intradisciplinary answers to inherently intradisciplinary questions that face society now and in the future.

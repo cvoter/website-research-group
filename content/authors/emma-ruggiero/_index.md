@@ -48,6 +48,3 @@ education:
 # Education
 - MS in Plant and Soil Sciences, University of Delaware, 2021
 - BS in Landscape Architecture, University of Delaware, 2018
-
-# Bio
-Emma's bio here.

@@ -49,4 +49,4 @@ interests:
 education:
 ---
 # Education
-- B.S. in Environmental Engineering, University of Delaware, *expected 2025*
+- B.S. in Environmental Engineering, University of Delaware, 2025

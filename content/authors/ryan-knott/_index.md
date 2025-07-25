@@ -3,38 +3,34 @@
 # Set draft to false after copying over for a new person (only template/blank remains draft)
 draft: false
 # Full name, as appears in publications (e.g., Carolyn B. Voter, G. Aaron Alexander) 
-title: Yamini Pravallika Medapati
+title: Ryan Knott
 # Full name, same as title
-name: Yamini Pravallika Medapati
+name: Ryan Knott
 # Full name, must be identical to title
 authors:
-- Yamini Pravallika Medapati
+- Ryan Knott
 # People avatars are sorted by last name
-first_name: Yamini
-last_name: Medapati
+first_name: Ryan
+last_name: Knott
 # Add name pronounciation, optional
 name_pronunciation: ''
 # Groups on the people page. See content/people/_index.md for options (e.g., Principal Investigator, Graduate Students, Undergraduate Researchers, Alumni)
 user_groups:
-- Alumni
+- Undergraduate Researchers
 # Role/position - PhD Candidate, PhD Student, MS Student, Undergrad Researcher, etc. Not tied to other code on site, so can be descriptive.
-role: Graduate Researcher
+role: Undergraduate Researcher
 # Organizations/Affiliations
 # Use a dash in front of name to list, as below. Can optionally link to URL (use quotes), or leave as just unlinked name
 organizations:
-- name: Data Science Program
-  url: "https://www.udel.edu/grad/prospective-students/programs/interdisciplinary/data-science/"
-- name: Democratizing Access to Research Software Engineering (DARSE)
-  url: "https://sites.udel.edu/darse/"
+- name: 
+  url:
 - name: University of Delaware
 # See README for additional icon options. link can be to an external website or to a document on this site (i.e., under doc/name_of_file)
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:myamini@udel.edu
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yaminipravallika
+  # link is mailto:email@address.com
+  link:
 
 # NOT CHANGED for our profiles, typically
 # Select true. bold/highlights group members in publication author lists
@@ -51,4 +47,4 @@ interests:
 education:
 ---
 # Education
-- MS in Data Science, University of Delaware, 2024
+- BS in Environmental Engineering, University of Delaware, *expected 2028*

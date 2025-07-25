@@ -18,7 +18,7 @@ name_pronunciation: ''
 user_groups:
 - Graduate Students
 # Role/position - PhD Candidate, PhD Student, MS Student, Undergrad Researcher, etc. Not tied to other code on site, so can be descriptive.
-role: PhD Student
+role: PhD Candidate
 # Organizations/Affiliations
 # Use a dash in front of name to list, as below. Can optionally link to URL (use quotes), or leave as just unlinked name
 organizations:

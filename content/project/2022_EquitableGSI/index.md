@@ -8,6 +8,7 @@ summary: "How can we optimize the adoption of green stormwater infrastructure fo
 authors:
 - Rachel Zobel
 - Emma Ruggiero
+- Abbie Pierson
 - Carolyn B. Voter
 - Rebecca Nixon
 - Yao Hu
