@@ -1,7 +1,7 @@
 ---
 # EDIT THIS info, plus markdown section below the front matter
 # Set draft to false after copying over for a new person (only template/blank remains draft)
-draft: true
+draft: false
 # Full name, as appears in publications (e.g., Carolyn B. Voter, G. Aaron Alexander) 
 title: Quinton Holley
 # Full name, same as title
