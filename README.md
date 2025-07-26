@@ -1,4 +1,6 @@
-# website
+# website-research-group
+
+This website is currently hosted at [https://cvoter.github.io/website-research-group/](https://cvoter.github.io/website-research-group/), but I am in the process of transferring hosting to www.carolynbvoter.com. 
 
 ## Initial Setup
 A good way to edit the website content is to use **Visual Studio Code** (download [here](https://code.visualstudio.com/download)), but [other options](https://docs.hugoblox.com/getting-started/cms/) work too. RStudio + Blogdown package used to be a good option, but it no longer plays as nicely with Hugo - I'd recommend using one of the other approaches.
