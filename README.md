@@ -1,6 +1,6 @@
-# website-research-group
+# Water, Ecosystems and People Research Group Website
 
-This website is currently hosted at [https://cvoter.github.io/website-research-group/](https://cvoter.github.io/website-research-group/), but I am in the process of transferring the domain to www.carolynbvoter.com. 
+This is the repository for the Water, Ecosystems, and People research group led by Carolyn Voter. The main website domain is currently [waterecosystemsandpeople.com](https://waterecosystemsandpeople.com), but several other domains will also direct you there including: [carolynbvoter.com](https://carolynbvoter.com), [carolynvoter.com](https://carolynvoter.com), [waterecosystemspeople.com](https://waterecosystemspeople.com), and [cvoter.github.io/website-research-group](https://cvoter.github.io/website-research-group)).
 
 ## Initial Setup
 A good way to edit the website content is to use **Visual Studio Code** (download [here](https://code.visualstudio.com/download)), but [other options](https://docs.hugoblox.com/getting-started/cms/) work too. RStudio + Blogdown package used to be a good option, but it no longer plays as nicely with Hugo - I'd recommend using one of the other approaches.
@@ -90,6 +90,14 @@ My favorite change I have made to the template website is to **display related c
 
 ## Publishing to a custom domain
 [The steps](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages) to using a **custom domain** for your GitHub pages website appear to be:
-1. **Secure the domain**. You need to own the domain first, of course. I used to use BlueHost as my domain registrar, and also used them to host my old (Wordpress) website. But they jacked up their prices dramatically during renewals. So during the creation of this website, I transfered my domains to [Namecheap](https://www.namecheap.com/). It feels like the best registrars are always changing, so check the latest collective wisdom of the internet before picking your own registrar.
-2. **Verify your domain** for GitHub pages. See the steps [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages) to do this for your profile. This helps make sure no other GitHub profiles can grab your domain if you e.g. delete your current website repository.
-3. **Add your domain** to your website repository. See the steps [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) to do this for your website repository.
+1. **Secure the domain**. You need to own the domain first, of course. I used to use BlueHost as my domain registrar, and also used them to host my old (Wordpress) website. But they jacked up their prices dramatically during renewals. So during the creation of this website, I transfered my domain(s) to [Namecheap](https://www.namecheap.com/). It feels like the best registrars are always changing, so check the latest collective wisdom of the internet before picking your own registrar.
+2. **Verify your domain** for GitHub pages. See the steps [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages) to do this for your profile. This helps make sure no other GitHub profiles can grab your domain if you e.g. delete your current website repository. Some additional pro tips:
+	* You can do this before you add the domain to your website repository.
+	* You can do this before you add the "A" and "CNAME" records that will link the domain to GitHub Pages.
+	* You can do this for all domains you own, even if you intend to redirect them to one primary domain.
+	* Copy the "host" value as GitHub provides, don't add your custom domain to the end (Namecheap does this automatically)
+	* It may help to set TTL to something reasonably short (e.g., 30 min) at first for the change to go through quickly. When I did this, I could verify on GitHub's side within just a few minutes. 
+3. **Add your domain** to your website repository. See the steps [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) to do this for your website repository. Essentially:
+	* Add a few `A` (or `AAAA`) records (host = `@`, values = IP addresses listed) and a CNAME record (host = `www`, value = `<yourusername>.github.io`) to your domain on Namecheap or wherever.
+	* Add this domain to the repository > Pages > custom domain. Give it a minute to generate the SSL certificate, then check the box about HTTPS.
+	* Update the `hugo.yaml` file so the `baseURL` is your custom domain. Wait for GitHub actions to regenerate the website.
