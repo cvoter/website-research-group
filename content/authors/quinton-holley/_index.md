@@ -16,7 +16,7 @@ last_name: Holley
 name_pronunciation: ''
 # Groups on the people page. See content/people/_index.md for options (e.g., Principal Investigator, Graduate Students, Undergraduate Researchers, Alumni)
 user_groups:
-- Undergraduate Researchers
+- Alumni
 # Role/position - PhD Candidate, PhD Student, MS Student, Undergrad Researcher, etc. Not tied to other code on site, so can be descriptive.
 role: Undergraduate Researcher
 # Organizations/Affiliations
