@@ -9,7 +9,7 @@ authors:
 - Emma Ruggiero
 - Grace Hepler
 - Ryan Knott
-- Brayden Rochester
+- brayden-rochester
 - Carolyn B. Voter
 - Rebecca Nixon
 - Yao Hu

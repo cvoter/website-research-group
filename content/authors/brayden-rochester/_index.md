@@ -8,7 +8,7 @@ title: Brayden Rochester
 name: Brayden Rochester
 # Full name, must be identical to title
 authors:
-- Brayden Rochester
+- brayden-rochester
 # People avatars are sorted by last name
 first_name: Brayden
 last_name: Rochester
