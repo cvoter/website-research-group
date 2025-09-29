@@ -22,15 +22,15 @@ role: Undergraduate Researcher
 # Organizations/Affiliations
 # Use a dash in front of name to list, as below. Can optionally link to URL (use quotes), or leave as just unlinked name
 organizations:
-- name: 
-  url:
+- name: Civil, Construction, and Environmental Engineering
+  url: "https://ccee.udel.edu/"
 - name: University of Delaware
 # See README for additional icon options. link can be to an external website or to a document on this site (i.e., under doc/name_of_file)
 social:
 - icon: envelope
   icon_pack: fas
   # link is mailto:email@address.com
-  link: 
+  link: mailto:brayden@udel.edu
 
 # NOT CHANGED for our profiles, typically
 # Select true. bold/highlights group members in publication author lists
