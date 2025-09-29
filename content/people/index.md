@@ -8,6 +8,7 @@ sections:
     title: Who We Are
     user_groups:
     - Principal Investigator
+    - Postdoctoral Researchers
     - Graduate Students
     - Undergraduate Researchers
     - Alumni

@@ -8,6 +8,7 @@ summary: "What is the impact of groundwater rise, saltwater intrusion, and inten
 authors:
 - Omowumi Erukubami
 - Austin K. Farnum
+- Dannielle Pratt
 - Chloe Gerstenbacher
 - Nicole Mnych
 - Carolyn B. Voter

@@ -99,5 +99,5 @@ My favorite change I have made to the template website is to **display related c
 	* It may help to set TTL to something reasonably short (e.g., 30 min) at first for the change to go through quickly. When I did this, I could verify on GitHub's side within just a few minutes. 
 3. **Add your domain** to your website repository. See the steps [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) to do this for your website repository. Essentially:
 	* Add a few `A` (or `AAAA`) records (host = `@`, values = IP addresses listed) and a CNAME record (host = `www`, value = `<yourusername>.github.io`) to your domain on Namecheap or wherever.
-	* Add this domain to the repository > Pages > custom domain. Give it a minute to generate the SSL certificate, then check the box about HTTPS.
+	* Add this domain to the git repository > Pages > custom domain. Give it a minute to generate the SSL certificate, then check the box about HTTPS.
 	* Update the `hugo.yaml` file so the `baseURL` is your custom domain. Wait for GitHub actions to regenerate the website.
