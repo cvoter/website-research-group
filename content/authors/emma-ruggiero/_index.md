@@ -45,6 +45,8 @@ interests:
 # Not used (edit eduction below instead). Can add course, institution, year
 education:
 ---
+Emma’s research examines the long-term performance of residential rain gardens, with a focus on how hydrology, ecology, and maintenance practices interact over time. She studies how aging green stormwater systems respond to changing climate conditions, evolving landscaping decisions, and variations in resident stewardship in order to understand the success and equity of nature-based solutions in cities. With a background in landscape architecture, she is especially motivated by how research can translate into more resilient and thoughtful design and long-term management strategies. Outside of research, Emma enjoys hiking, gardening, and practicing yoga.
+
 # Education
 - MS in Plant and Soil Sciences, University of Delaware, 2021
 - BS in Landscape Architecture, University of Delaware, 2018
