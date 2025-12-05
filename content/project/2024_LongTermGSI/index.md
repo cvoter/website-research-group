@@ -7,9 +7,10 @@ summary: 'To what extent do green stormwater infrastructure such as residential 
 # VERY IMPORTANT: list contributors exactly as their names appear in the person's Author page (e.g., Carolyn B. Voter, Rachel Zobel)
 authors:
 - Emma Ruggiero
-- Grace Hepler
-- Ryan Knott
 - Brayden Rochester
+- Ryan Knott
+- Catherine Hunt
+- Grace Hepler
 - Carolyn B. Voter
 - Rebecca Nixon
 - Yao Hu

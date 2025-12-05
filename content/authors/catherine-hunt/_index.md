@@ -3,33 +3,34 @@
 # Set draft to false after copying over for a new person (only template/blank remains draft)
 draft: false
 # Full name, as appears in publications (e.g., Carolyn B. Voter, G. Aaron Alexander) 
-title: Emma Ruggiero
+title: Catherine Hunt
 # Full name, same as title
-name: Emma Ruggiero
+name: Catherine Hunt
 # Full name, must be identical to title
 authors:
-- Emma Ruggiero
+- Catherine Hunt
 # People avatars are sorted by last name
-first_name: Emma
-last_name: Ruggiero
+first_name: Catherine
+last_name: Hunt
 # Add name pronounciation, optional
 name_pronunciation: ''
 # Groups on the people page. See content/people/_index.md for options (e.g., Principal Investigator, Graduate Students, Undergraduate Researchers, Alumni)
 user_groups:
-- Graduate Students
+- Undergraduate Researchers
 # Role/position - PhD Candidate, PhD Student, MS Student, Undergrad Researcher, etc. Not tied to other code on site, so can be descriptive.
-role: PhD Student
+role: Undergrad Researcher
 # Organizations/Affiliations
 # Use a dash in front of name to list, as below. Can optionally link to URL (use quotes), or leave as just unlinked name
 organizations:
-- name: Water Science and Policy Program
-  url: "https://www.udel.edu/grad/prospective-students/programs/interdisciplinary/water-science-policy/"
+- name: Civil, Construction, and Environmental Engineering
+  url: "https://ccee.udel.edu/"
 - name: University of Delaware
 # See README for additional icon options. link can be to an external website or to a document on this site (i.e., under doc/name_of_file)
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:emmarugg@udel.edu
+  # link is mailto:email@address.com
+  link: mailto:cthunt@udel.edu
 
 # NOT CHANGED for our profiles, typically
 # Select true. bold/highlights group members in publication author lists
@@ -46,8 +47,7 @@ interests:
 education:
 ---
 # Education
-- MS in Plant and Soil Sciences, University of Delaware, 2021
-- BS in Landscape Architecture, University of Delaware, 2018
+- B.S. in Environmental Engineering, University of Delaware, *Expected 2028*
 
 # Bio
-Emma’s research examines the long-term performance of residential rain gardens, with a focus on how hydrology, ecology, and maintenance practices interact over time. She studies how aging green stormwater systems respond to changing climate conditions, evolving landscaping decisions, and variations in resident stewardship in order to understand the success and equity of nature-based solutions in cities. With a background in landscape architecture, she is especially motivated by how research can translate into more resilient and thoughtful design and long-term management strategies. Outside of research, Emma enjoys hiking, gardening, and practicing yoga.
+I am a 2nd year undergraduate student studying environmental engineering at the University of Delaware. My role in Dr. Voter's research group is helping Emma to clean and analyze data collected from residential rain gardens. Previously I worked with Dr. Claudia Zoccarato researching the compressibility of soil in salt marshes. In my free time, I enjoy reading, baking (especially muffins), and dancing. I am always delighted to share book recommendations and recipes.
