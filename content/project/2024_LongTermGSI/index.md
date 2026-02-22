@@ -10,6 +10,7 @@ authors:
 - Brayden Rochester
 - Ryan Knott
 - Catherine Hunt
+- Emily Berger
 - Grace Hepler
 - Carolyn B. Voter
 - Rebecca Nixon

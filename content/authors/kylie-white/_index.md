@@ -3,15 +3,15 @@
 # Set draft to false after copying over for a new person (only template/blank remains draft)
 draft: false
 # Full name, as appears in publications (e.g., Carolyn B. Voter, G. Aaron Alexander) 
-title: Brayden Rochester
+title: Kylie White
 # Full name, same as title
-name: Brayden Rochester
+name: Kylie White
 # Full name, must be identical to title
-authors:
-- Brayden Rochester
+authors: 
+- Kylie White
 # People avatars are sorted by last name
-first_name: Brayden
-last_name: Rochester
+first_name: Kylie
+last_name: White
 # Add name pronounciation, optional
 name_pronunciation: ''
 # Groups on the people page. See content/people/_index.md for options (e.g., Principal Investigator, Graduate Students, Undergraduate Researchers, Alumni)
@@ -30,7 +30,7 @@ social:
 - icon: envelope
   icon_pack: fas
   # link is mailto:email@address.com
-  link: mailto:brayden@udel.edu
+  link: mailto:kyliewhi@udel.edu
 
 # NOT CHANGED for our profiles, typically
 # Select true. bold/highlights group members in publication author lists
@@ -47,4 +47,4 @@ interests:
 education:
 ---
 # Education
-- B.S. in Environmental Engineering, University of Delaware, *Expected 2026*
+- B.S. in Environmental Engineering, University of Delaware, *Expected 2028*

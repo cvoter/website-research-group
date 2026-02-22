@@ -9,6 +9,7 @@ authors:
 - Omowumi Erukubami
 - Austin K. Farnum
 - Dannielle Pratt
+- Hazel Mullen
 - Chloe Gerstenbacher
 - Nicole Mnych
 - Carolyn B. Voter
