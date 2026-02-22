@@ -28,7 +28,7 @@ sections:
       
       <img style="float: right;" src="hydroeco_burritos_2024.jpg" width="40%" height="40%" alt="The Voter Research Group celebrating Hydroeco Burrito Day in 2024">
       
-      The **Voter Research Group** is led by [Carolyn Voter](author/carolyn-b.-voter) and based in the departments of [Civil,
+      The **Water, Ecosystems, and People Group** is led by [Carolyn Voter](author/carolyn-b.-voter) and based in the departments of [Civil,
       Construction, and Environmental Engineering](https://ce.udel.edu/) and
       [Earth Sciences](https://www.udel.edu/academics/colleges/ceoe/departments/es/) at
       the University of Delaware. We are also affiliated with several
@@ -39,19 +39,11 @@ sections:
       * [The Center for Applied Coastal Research](https://coastal.udel.edu/)
       
       # Our Mission 
-      Across the world, urbanization is expanding, agricultural demand is
-      intensifying, and the climate is changing. We respond to these challenges
-      by using models, data, and stakeholder engagement to identify ways to more
-      sustainably and equitably 1) manage water resources, 2) preserve ecosystem
-      services, and 3) increase community resilience. We take pride in ensuring
-      that our work is reproducible.
+      Across the world, urban areas are expanding, agricultural demand is intensifying, and natural hazards pose an ever-present threat. To better characterize these challenges, we quantify and predict how water moves through our environment, interacting with ecosystems, communities, and built infrastructure. We do this using hydrologic models, data, and stakeholder engagement. We focus on identifying ways to more sustainably 1) manage water resources, 2) preserve ecosystem services, and 3) increase community resilience. We take pride in ensuring that our work is reproducible and thoughtfully communicated to a range of audiences.
       
       # Our Vision
-      Our goal is to produce solid science that is disseminated through
-      scientific journals and conferences and that informs the decisions and
-      actions of communities, regulators, and policymakers. As we do this
-      science, we will also advance diversity, equity, and inclusion in our lab,
-      our university, and our local and professional communities.
+      Our goal is to produce solid science that is disseminated through scientific journals and conferences and that informs the decisions and actions of communities, regulators, and policymakers. As we do this science, we will also build welcoming communities in our lab, our university, and our local and professional communities.
+
 - block: markdown
   content:
     subtitle: ""
