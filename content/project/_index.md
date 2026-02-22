@@ -7,34 +7,47 @@ sections:
       title: Research Projects
       subtitle: view by theme
       text: |
-        <center>We are broadly interested in the interactions among <strong>water, ecosystems, and people</strong>.</center><br>
+        <center>We are broadly interested in the interactions among <strong>water, ecosystems, and people</strong>.</center>.
         
-        In terms of *Hydrologic Processes*, we currently have a strong focus on:
-        - **Urban (Eco-)Hydrology**, with a number of projects focusing specifically on **Green Stormwater Infrastructure**
-        - Hydrologic feedbacks, including **Surface Water-Groundwater** interactions and **Land-Atmosphere** interactions
+        <div style="display: flex; gap: 2rem;">
+        <div style="flex: 1;">
+        Our core <strong>research themes</strong> include:
+        <ul>
+        <li>Safeguarding Natural Ecosystems</li>
+        <li>Sustainably Managing Urban Stormwater</li>
+        <li>Increasing Resilience to Hydrologic Hazards</li>
+        </ul>
+        </div>
+
+        <div style="flex: 1;">
+        The <strong>tools and approaches</strong> we use include:
+        <ul>
+        <li>Hydrologic Modeling</li>
+        <li>Empirical Data (including field and lab data collection)</li>
+        <li>Stakeholder Engagement</li>
+        </ul>
+        </div>
+        </div>
         
-        Our core *Approaches* included:
-        - Developing novel **Integrated Modeling** tools to capture hydrologic processes
-        - Incorporating **Community Engagement**
-        <br><br>        
+                
       filters:
         folders:
           - project
       buttons:
         - name: All
           tag: '*'
-        - name: Urban (Eco-)Hydrology
-          tag: urban-hydro
-        - name: Green Stormwater Infrastructure
-          tag: gsi
-        - name: Surface Water-Groundwater
-          tag: sw-gw
-        - name: Land-Atmosphere
-          tag: land-atmos
-        - name: Integrated Modeling
-          tag: modeling-tools
-        - name: Community Engagement
-          tag: community-engagement
+        - name: Safeguarding Natural Ecosystems
+          tag: ecosystems
+        - name: Sustainably Managing Urban Stormwater
+          tag: stormwater
+        - name: Increasing Resilience to Hydrologic Hazards
+          tag: resilience
+        - name: Hydrologic Modeling
+          tag: modeling
+        - name: Empirical Data
+          tag: data
+        - name: Stakeholder Engagement
+          tag: engagement
       filter_default: 0
     design:
       view: compact

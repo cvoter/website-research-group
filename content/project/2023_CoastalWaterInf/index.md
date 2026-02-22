@@ -18,11 +18,10 @@ authors:
 # categories include: research, teaching
 categories:
 - research
-# tags include: urban-hydro, sw-gw, modeling-tools, community-engagement
+# tags include: ecosystems, stormwater, resilience, modeling, data, engagement
 tags:
-- urban-hydro
-- sw-gw
-- modeling-tools
+- resilience
+- modeling
 # Add approx. year (as YYYY) that project started as date (used for sorting)
 date: 2023
 # Set draft to false after copying over for a new project (only template/blank remains draft)
