@@ -1,33 +1,33 @@
 a:link {
-  color: #00539f;
+  color: #000;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #00539f;
+  color: #000;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #00539f;
-  background-color: #ffd200;
+  color: #000;
+  background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #00539f;
-  background-color: #ffd200;
+  color: #fff;
+  background-color: #c5050c;
   text-decoration: underline;
 }
 
 .btn.btn-primary.btn-lg:hover {
-  color: #00539f;
-  background-color: #ffd200 !important;
+  color: #fff;
+  background-color: #c5050c !important;
 }
 
 .btn.btn-primary.btn-lg:focus {
-  outline: 5px solid #ffd200;
+  outline: 5px solid #c5050c;
   outline-offset: 0px;
 }
