@@ -22,22 +22,20 @@ role: Assistant Professor
 # Organizations/Affiliations
 # Use a dash in front of name to list, as below. Can optionally link to URL (use quotes), or leave as just unlinked name
 organizations:
-- name: Department of Civil, Construction, and Environmental Engineering
-  url: "https://ce.udel.edu/"
-- name: Department of Earth Sciences
-  url: "https://www.udel.edu/academics/colleges/ceoe/departments/es/"
-- name: University of Delaware
+- name: Department of Civil and Environmental Engineering
+  url: "https://engineering.wisc.edu/departments/civil-environmental-engineering/"
+- name: University of Wisconsin-Madison
 # See README for additional icon options. link can be to an external website or to a document on this site (i.e., under doc/name_of_file)
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:cvoter@udel.edu
+  link: mailto:cvoter@wisc.edu
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4023-7390
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=zJyXCuoAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=EKH5PxIAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/cvoter
@@ -64,16 +62,6 @@ education:
 - BS in Civil Engineering, Bucknell University, 2012
 
 # Bio
-I am an assistant professor in the departments of Civil, Construction, and
-Environmental Engineering and Earth Sciences at the University of Delaware.
-After receiving my PhD from the University of Wisconsin-Madison, I served as a
-Wisconsin Water Resources Science-Policy Fellow at the Wisconsin Department of
-Natural Resources before joining UD in 2022. My research broadly focuses on
-using integrated hydrologic models, data, and stakeholder engagement to identify
-ways to more sustainably and equitably manage water resources, preserve
-ecosystem services, and increase community resilience. My work is currently
-supported by the National Science Foundation Strengthening American
-Infrastructure program, Delaware Sea Grant, and the Department of Defense
-Environmental Security Technology Certification Program (ESTCP).
+I am currently an assistant professor in the department of Civil and Environmental Engineering at the University of Wisconsin-Madison. After receiving my PhD, I served as a Wisconsin Water Resources Science-Policy Fellow at the Wisconsin Department of Natural Resources (2019-2021), then joined the University of Delaware as an assistant professor in the departments of Civil, Construction, and Environmental Engineering and Earth Sciences (2022-2026) before returning to UW-Madison as an assistant professor (2026-present). My research broadly focuses on using integrated hydrologic models, data, and stakeholder engagement to identify ways to more sustainably and equitably manage water resources, preserve ecosystem services, and increase community resilience. My work is currently supported by the National Science Foundation Strengthening American Infrastructure program, Delaware Sea Grant, and the Department of Defense Environmental Security Technology Certification Program (ESTCP).
 
 In my personal time, I enjoy reading (non-fiction, fantasy, cozy mysteries), outdoor activities (running, hiking, walking, bird watching, barebow archery), and board games (current favorites include Sleeping Gods, Scout, and Food Chain Island).
