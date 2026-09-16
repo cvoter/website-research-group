@@ -116,3 +116,17 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+# Font Pack
+hugoblox:
+  typography:
+    pack: "modern"
+    families:
+      heading: "Red Hat Display"
+      body: "Red Hat Text"
+      code: "Red Hat Mono"
+      nav: "Red Hat Display"
+    variable:
+      heading: true
+      body: true
+      code: true
