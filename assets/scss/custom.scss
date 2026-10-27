@@ -1,17 +1,17 @@
 a:link {
-  color: #000;
+  color: #1A0dab;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #000;
+  color: #1A0dab;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #000;
+  color: #1A0dab;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -30,4 +30,67 @@ a:active {
 .btn.btn-primary.btn-lg:focus {
   outline: 5px solid #c5050c;
   outline-offset: 0px;
+}
+
+.wg-portfolio a:link,
+.wg-portfolio a:visited,
+.wg-portfolio a:hover,
+.wg-portfolio a:not(.btn):focus,
+.wg-portfolio a:not(.btn):active,
+.wg-people a:link,
+.wg-people a:visited,
+.wg-people a:hover,
+.wg-people a:not(.btn):focus,
+.wg-people a:not(.btn):active, 
+#talk_list a:link,
+#talk_list a:visited,
+#talk_list a:hover,
+#talk_list a:not(.btn):focus,
+#talk_list a:not(.btn):active,
+#container-publications a:link,
+#container-publications a:visited,
+#container-publications a:not(.btn):hover,
+#container-publications a:not(.btn):focus,
+#container-publications a:not(.btn):active,
+#profile-page .stream-item a:link,
+#profile-page .stream-item a:visited,
+#profile-page .stream-item a:not(.btn):hover,
+#profile-page .stream-item a:not(.btn):focus,
+#profile-page .stream-item a:not(.btn):active,
+.article-project .project-related-pages a:link,
+.article-project .project-related-pages a:visited,
+.article-project .project-related-pages a:not(.btn):hover,
+.article-project .project-related-pages a:not(.btn):focus,
+.article-project .project-related-pages a:not(.btn):active {
+  color: #000;
+  background-color: transparent;
+}
+
+.wg-portfolio a:not(.btn):hover,
+.wg-portfolio a:not(.btn):focus-visible,
+.wg-people a:not(.btn):hover,
+.wg-people a:not(.btn):focus-visible,
+#talk_list a:not(.btn):hover,
+#talk_list a:not(.btn):focus-visible,
+#container-publications a:not(.btn):hover,
+#container-publications a:not(.btn):focus-visible,
+#profile-page .stream-item a:not(.btn):hover,
+#profile-page .stream-item a:not(.btn):focus-visible,
+.article-project .project-related-pages a:not(.btn):hover,
+.article-project .project-related-pages a:not(.btn):focus-visible {
+  text-decoration: underline;
+}
+
+.article-project .article-metadata a,
+.article-project .author-card .card-title a,
+.pub .article-metadata a,
+.pub .author-card .card-title a,
+.article-project .btn-links a.btn,
+.pub .btn-links a.btn {
+  color: #000;
+}
+
+.article-project .btn-links a.btn:hover,
+.pub .btn-links a.btn:hover {
+  text-decoration: none;
 }

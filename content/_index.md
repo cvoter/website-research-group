@@ -32,6 +32,8 @@ sections:
       the **University of Wisconsin-Madison**. 
       
       We also maintain ties with **University of Delaware** organizations (where Carolyn was an Assistant Professor from 2022-2026) including the department of [Civil, Construction & Environmental Engineering](https://ccee.udel.edu/), the [Water Science and Policy](https://www.udel.edu/grad/prospective-students/programs/interdisciplinary/water-science-policy/) graduate program, and [The Delaware Environmental Institute](https://www.denin.udel.edu/).
+
+      **Interested in joining us?** Learn more [here](https://waterecosystemsandpeople.com/join/)!
       
       # Our Mission 
       Across the world, urban areas are expanding, agricultural demand is intensifying, and natural hazards pose an ever-present threat. To better characterize these challenges, we quantify and predict how water moves through our environment, interacting with ecosystems, communities, and built infrastructure. We do this using hydrologic models, data, and stakeholder engagement. We focus on identifying ways to more sustainably 1) manage water resources, 2) preserve ecosystem services, and 3) increase community resilience. We take pride in ensuring that our work is reproducible and thoughtfully communicated to a range of audiences.
